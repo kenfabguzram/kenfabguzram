@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I am an advanced student pursuing a Computing Engineering degree at Tecnológico de Costa Rica. Currently, I am working on personal projects and enhancing my knowledge in cloud computing fundamentals and automation.
+🔭 I am an advanced student pursuing a Computing Engineering degree at Tecnológico de Costa Rica. Currently, I am working on academic projects and enhancing my knowledge in cloud computing fundamentals and automation.
 
 👯 I am eager to collaborate on projects related to AI, VR, and Accessibility.
 
-🌱 I am actively learning AI tools to boost my productivity.
+🌱 I am actively learning to use some AI tools to boost my productivity.
 
 💬 Feel free to ask me about the importance of accessibility in my daily life!
 
