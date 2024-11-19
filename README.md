@@ -1,11 +1,12 @@
 # 💫 About Me:
-🔭 I am an advanced student pursuing a Computing Engineering degree at Tecnológico de Costa Rica. Currently, I am working on academic projects and enhancing my knowledge in cloud computing fundamentals and automation.
+Software Engineering Student | Cloud Enthusiast | Software Developer
+Instituto Tecnológico de Costa Rica | Microsoft Azure Certified | Aspiring IT Innovator
 
-👯 I am eager to collaborate on projects related to AI, VR, and Accessibility.
+I’m Kendall Guzmán Ramírez, a Software Engineering student with a passion for leveraging technology to create sustainable, efficient, and innovative solutions. With hands-on experience in application development, cloud infrastructure and data analytics, I am driven to make a tangible impact through my work.
 
-🌱 I am actively learning to use some AI tools to boost my productivity.
+My goal is to continue building expertise in tech solutions to help organizations innovate responsibly and sustainably. I'm always open to connecting with like-minded professionals, so feel free to reach out!
 
-💬 Feel free to ask me about the importance of accessibility in my daily life!
+Let’s Connect!
 
 
 ## 🌐 Socials:
